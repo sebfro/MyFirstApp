@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Min første Applikasjon</string>
+    <string name="edit_message">Skriv inn melding</string>
+    <string name="button_send">Send</string>
+    <string name="button_url">Salt</string>
+</resources>

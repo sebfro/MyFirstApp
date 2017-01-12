@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mina førsta Applikasjona</string>
+    <string name="edit_message">Skriva inna meldinga</string>
+    <string name="button_send">Senda</string>
+    <string name="button_url">Salta</string>
+</resources>
